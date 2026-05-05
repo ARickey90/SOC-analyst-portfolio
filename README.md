@@ -23,4 +23,4 @@ This repository tracks my hands-on projects and learning journey as I build SOC-
 
 ## 📫 Connect with Me  
 - LinkedIn: https://www.linkedin.com/in/oluwatosinj/
-- Email: rickey.baby@icloud.com / kievjameson@gmail.com
+- Email: rickey.baby@icloud.com
