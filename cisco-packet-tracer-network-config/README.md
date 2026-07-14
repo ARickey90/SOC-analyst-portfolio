@@ -14,8 +14,8 @@ Designed and deployed a simulated multi-department enterprise network (Admin, Sa
 Network Design · Routing · ACL Configuration · DHCP/DNS · Verification Testing
 
 ## Evidence
-1. [Network Topology Diagram](Figure4-topology.png)
-2. [Successful Ping — Sales to Admin](Figure1-ping-success.png)
-3. [Failed Ping — HR to Admin (ACL enforced)](Figure2-ping-blocked.png)
-4. [Router ACL Configuration & Verification](Figure3-acl-config.png)
+1. [Network Topology Diagram](Figure4-topology.jpg)
+2. [Successful Ping — Sales to Admin](Figure1-ping-success.jpg)
+3. [Failed Ping — HR to Admin (ACL enforced)](Figure2-ping-blocked.jpg)
+4. [Router ACL Configuration & Verification](Figure3-acl-config.jpg)
 5. [Full Project Write-Up (PDF)](Cisco-Packet-Tracer-Network-Configuration-Project.pdf)
