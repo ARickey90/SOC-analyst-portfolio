@@ -20,6 +20,7 @@ This repository tracks my hands-on projects and learning journey as I build SOC-
 - [SIEM Log Monitoring (Splunk Lab)](link-coming-soon)  
 - [IAM Project with MFA](link-coming-soon)  
 - [Network Traffic Analysis with Wireshark](link-coming-soon)
+- [Enterprise Network Configuration — Cisco Packet Tracer](cisco-packet-tracer-network-config)
 - [SOC Capstone — End-to-End Incident Investigation](https://github.com/ARickey90/SOC-analyst-portfolio/tree/main/soc-capstone-brute-force-investigation)
 
 ## 📫 Connect with Me  
