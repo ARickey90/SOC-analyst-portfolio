@@ -2,6 +2,10 @@
 
 4VM lab (Kali, Ubuntu, pfSense, Wazuh) simulating and investigating an SSH brute-force attack.
 
+## Contents
+- [Incident Report (PDF)](SOC-Incident-Report.pdf)
+- Screenshots: recon, attack simulation, detection, response
+
 ## Evidence
 1. [Reconnaissance](02-recon-nmap-scan.png)
 2. [Attack Simulation](03-attack-hydra-brute-force.png)
