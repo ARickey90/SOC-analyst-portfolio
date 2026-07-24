@@ -1,4 +1,4 @@
-# SOC Capstone — End-to-End Incident Investigation
+# SOC Brute Force - End-to-End Incident Investigation
 
 4VM lab (Kali, Ubuntu, pfSense, Wazuh) simulating and investigating an SSH brute-force attack.
 
