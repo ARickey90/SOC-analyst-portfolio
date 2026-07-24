@@ -24,6 +24,7 @@ This repository tracks my hands-on projects and learning journey as I build SOC-
 - [SOC Brute Force - End-to-End Incident Investigation Report](soc-capstone-brute-force-investigation)
 - [Threat Actor Profiling & Risk Assessment — Novacore Financial Services](Novacore Threat Intelligence Report)
 
+
 ## 📫 Connect with Me  
 - LinkedIn: https://www.linkedin.com/in/oluwatosinj/
 - Email: rickey.baby@icloud.com
