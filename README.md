@@ -3,7 +3,7 @@
 A collection of projects, labs, and documentation from my transition into cybersecurity and SOC analyst roles.  
 
 ## 👨‍💻 About Me  
-Hi, I’m Oluwatosin Fagbayimu — an IT Support Specialist with 7+ years of experience, now transitioning into Cybersecurity, focusing on Security Operations Center (SOC) roles.  
+Hi, I’m Oluwatosin A. Fagbayimu — an IT Support Specialist with 7+ years of experience, now transitioning into Cybersecurity, focusing on Security Operations Center (SOC) roles.  
 
 This repository tracks my hands-on projects and learning journey as I build SOC-relevant skills in:  
 - 🔐 Identity and Access Management (IAM)  
@@ -22,7 +22,7 @@ This repository tracks my hands-on projects and learning journey as I build SOC-
 - [Network Traffic Analysis with Wireshark](link-coming-soon)
 - [Enterprise Network Configuration — Cisco Packet Tracer](cisco-packet-tracer-network-config)
 - [SOC Brute Force - End-to-End Incident Investigation Report](soc-capstone-brute-force-investigation)
-- [Threat Actor Profiling & Risk Assessment — Novacore Financial Services](Novacore%20Threat%20Intelligence%20Report)
+- [Threat Actor Profiling & Risk Assessment — Novacore Financial Services](Novacore-Threat-Intelligence-Report)
 
 
 ## 📫 Connect with Me  
