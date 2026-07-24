@@ -22,7 +22,7 @@ This repository tracks my hands-on projects and learning journey as I build SOC-
 - [Network Traffic Analysis with Wireshark](link-coming-soon)
 - [Enterprise Network Configuration — Cisco Packet Tracer](cisco-packet-tracer-network-config)
 - [SOC Brute Force - End-to-End Incident Investigation Report](soc-capstone-brute-force-investigation)
-- [Threat Actor Profiling & Risk Assessment — Novacore Financial Services](Novacore Threat Intelligence Report)
+- [Threat Actor Profiling & Risk Assessment — Novacore Financial Services](Novacore%20Threat%20Intelligence%20Report)
 
 
 ## 📫 Connect with Me  
