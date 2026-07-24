@@ -29,7 +29,7 @@ Threat group profiles and TTP mappings are built from [MITRE ATT&CK](https://att
 
 ## Files
 
-- `Novacore_Threat_Intelligence_Capstone_Report.pdf` - full written report.
+- `Novacore_Threat_Intelligence_Report.pdf` - full written report.
 
 ## Skills Demonstrated
 
