@@ -17,7 +17,6 @@ This repository tracks my hands-on projects and learning journey as I build SOC-
 
 ## 📂 Projects  
 - [SIEM Log Monitoring & Alert Triage — Wazuh](Soc-brute-force-investigation)
-- [Network Traffic Analysis with Wireshark](link-coming-soon)
 - [Enterprise Network Configuration — Cisco Packet Tracer](Cisco-packet-tracer-network-config)
 - [SOC Brute Force - End-to-End Incident Investigation Report](Soc-brute-force-investigation)
 - [Threat Actor Profiling & Risk Assessment — Novacore Financial Services](Novacore-threat-intelligence-report)
