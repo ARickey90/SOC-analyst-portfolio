@@ -6,9 +6,8 @@ A collection of projects, labs, and documentation from my transition into cybers
 Hi, I’m Oluwatosin A. Fagbayimu — an IT Support Specialist with 7+ years of experience, now transitioning into Cybersecurity, focusing on Security Operations Center (SOC) roles.  
 
 This repository tracks my hands-on projects and learning journey as I build SOC-relevant skills in:  
-- 🔐 Identity and Access Management (IAM)  
 - 🕵️ Threat Detection & Intelligence  
-- 📊 Security Information and Event Management (SIEM) with Splunk & Elastic  
+- 📊 Security Information and Event Management (SIEM) with Wazuh
 - 🌐 Network Monitoring & Analysis (Wireshark, Nmap)  
 
 ## 🎯 Current Goals  
@@ -17,8 +16,7 @@ This repository tracks my hands-on projects and learning journey as I build SOC-
 - Share my learning journey on LinkedIn & GitHub  
 
 ## 📂 Projects  
-- [SIEM Log Monitoring (Splunk Lab)](link-coming-soon)  
-- [IAM Project with MFA](link-coming-soon)  
+- [SIEM Log Monitoring & Alert Triage — Wazuh](Soc-brute-force-investigation)
 - [Network Traffic Analysis with Wireshark](link-coming-soon)
 - [Enterprise Network Configuration — Cisco Packet Tracer](Cisco-packet-tracer-network-config)
 - [SOC Brute Force - End-to-End Incident Investigation Report](Soc-brute-force-investigation)
