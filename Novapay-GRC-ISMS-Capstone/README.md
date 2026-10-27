@@ -41,12 +41,6 @@ Risk assessment and treatment, ISMS documentation, security policy writing, Anne
 
 NovaPay is a fictional company created for coursework. Scores, dates and targets are proposals, and no interviews or technical testing were part of the project.
 
-## 📂 Projects  
-- [SIEM Log Monitoring & Alert Triage — Wazuh](Soc-brute-force-investigation.pdf)
-- [Enterprise Network Configuration — Cisco Packet Tracer](Cisco-packet-tracer-network-config.pdf)
-- [SOC Brute Force - End-to-End Incident Investigation Report](Soc-brute-force-investigation.pdf)
-- [Threat Actor Profiling & Risk Assessment — Novacore Financial Services](Novacore-threat-intelligence-report.pdf)
-
 
 ## 📫 Connect with Me  
 - LinkedIn: https://www.linkedin.com/in/oluwatosinj/
