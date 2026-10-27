@@ -27,8 +27,8 @@ The deck also includes an executive summary, audit terms of reference, priority 
 
 ## Files
 
-- `Novapay-GRC-ISMS-Capstone.pdf`
-
+- `Novapay-GRC-ISMS-Capstone.pdf` - full written report.
+  
 ## Frameworks and standards used
 
 ISO/IEC 27001:2022, ISO/IEC 27002:2022, ISO 31000:2018, NIST CSF 2.0, PCI DSS v4.0.1, Nigeria Data Protection Act 2023, CBN regulatory requirements
