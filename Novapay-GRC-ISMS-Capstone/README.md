@@ -27,7 +27,7 @@ The deck also includes an executive summary, audit terms of reference, priority 
 
 ## Files
 
-- `NovaPay_GRC_Report_and_Case_Study.pdf`: PDF copy for viewing in the browser
+- `Novapay-GRC-ISMS-Capstone.pdf`
 
 ## Frameworks and standards used
 
