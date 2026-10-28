@@ -38,3 +38,8 @@ Threat group profiles and TTP mappings are built from [MITRE ATT&CK](https://att
 - Risk assessment (likelihood/impact modeling)
 - Regulatory context awareness (GDPR, PSD2, DORA)
 - Threat intelligence report writing
+
+
+📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/oluwatosinj/
+Email: rickey.baby@icloud.com
