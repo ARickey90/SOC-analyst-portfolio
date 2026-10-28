@@ -21,6 +21,6 @@ Network Design · Routing · ACL Configuration · DHCP/DNS · Verification Testi
 5. [Full Project Write-Up (PDF)](Cisco-Packet-Tracer-Network-Configuration-Project.pdf)
 
 
-📫 Connect with Me
-LinkedIn: https://www.linkedin.com/in/oluwatosinj/
-Email: rickey.baby@icloud.com
+## 📫 Connect with Me  
+- LinkedIn: https://www.linkedin.com/in/oluwatosinj
+- Email: rickey.baby@icloud.com
