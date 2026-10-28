@@ -19,3 +19,8 @@ Network Design · Routing · ACL Configuration · DHCP/DNS · Verification Testi
 3. [Failed Ping — HR to Admin (ACL enforced)](Figure2-ping-blocked.jpg)
 4. [Router ACL Configuration & Verification](Figure3-acl-config.jpg)
 5. [Full Project Write-Up (PDF)](Cisco-Packet-Tracer-Network-Configuration-Project.pdf)
+
+
+📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/oluwatosinj/
+Email: rickey.baby@icloud.com
