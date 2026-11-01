@@ -20,6 +20,7 @@ This repository tracks my hands-on projects and learning journey as I build SOC-
 - [Enterprise Network Configuration — Cisco Packet Tracer](Cisco-packet-tracer-network-config)
 - [SOC Brute Force - End-to-End Incident Investigation Report](Soc-brute-force-investigation)
 - [Threat Actor Profiling & Risk Assessment — Novacore Financial Services](Novacore-threat-intelligence-report)
+- [GRC Audit & ISMS Capstone — NovaPay Financial Services](Novapay-GRC-ISMS-Capstone/Novapay-GRC-ISMS-Capstone.pdf)
 
 
 ## 📫 Connect with Me  
